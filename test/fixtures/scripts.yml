@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  dialog: MyText
+  character: MyString
+  author: MyString
+  upRating: 1
+  downRating: 1
+
+two:
+  dialog: MyText
+  character: MyString
+  author: MyString
+  upRating: 1
+  downRating: 1
